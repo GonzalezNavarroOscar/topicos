@@ -45,7 +45,7 @@ Sobre el index no hay mucho que decir, solo se creó y se conectará a cada scri
 
 ![index](imgs/image.png)
 
-## Script 01
+## Contenedores (Script 01)
 **Para el primer script realizado, las instrucciones son:**
 
 Elaborar un script que genere 10 contenedores de
@@ -91,4 +91,7 @@ Resultado obtenido:
 
 ![index con script01.js](imgs/image-1.png)
 
-## Script 02
+## Contenedores 1.2 (Script 02)
+
+
+## Párrafos inteligentes (Script 03)
