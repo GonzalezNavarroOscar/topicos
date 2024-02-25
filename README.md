@@ -43,6 +43,8 @@ Sobre el index no hay mucho que decir, solo se creó y se conectará a cada scri
 </html>
 ```
 
+![index](imgs/image.png)
+
 ## Script 01
 **Para el primer script realizado, las instrucciones son:**
 
@@ -85,5 +87,8 @@ for (let i=0;i<=10 ; i++){
 
 }
 ```
+Resultado obtenido:
+
+![index con script01.js](imgs/image-1.png)
 
 ## Script 02
