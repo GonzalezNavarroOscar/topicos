@@ -7,9 +7,9 @@
 Archivos incluidos para el desarrollo de la practica:
 
 * index.html
-* script01.js
-* script02.js
-* script03.js
+* Script01/contenedores.js
+* Script02/contenedores1.2.js
+* Script03/parrafosInteligentes.js
 * README.md 
 
 Ahora bien, este documento es creado para brindar una explicación detallada de cada uno de los scripts que se realizaron, con el objetivo de informar y retroalimentar el conocimiento adquirido y aplicado.
