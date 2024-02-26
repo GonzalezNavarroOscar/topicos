@@ -25,13 +25,13 @@ for (let i=0;i<=10 ; i++){
     div.style.height = '100px'
 
     //Al arreglo de colores restantes, se le asignarán los valores restantes exceptuando al utilizado
-    const coloresRestantes = colores.filter(color => !coloresUtilizados.includes(color));
+    const coloresRestantes = colores.filter(color => !coloresUtilizados.includes(color))
 
     //Seleccionamos el color para el div
-    const colorSeleccionado = coloresRestantes[Math.floor(Math.random() * coloresRestantes.length)];
+    const colorSeleccionado = coloresRestantes[Math.floor(Math.random() * coloresRestantes.length)]
 
     //Después de ello, agregamos ese color al arreglo de colores usados
-    coloresUtilizados.push(colorSeleccionado);
+    coloresUtilizados.push(colorSeleccionado)
 
     //finalmente modificamos el color de los divs
     div.style.backgroundColor = colorSeleccionado
