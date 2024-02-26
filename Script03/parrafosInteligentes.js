@@ -21,7 +21,7 @@ for (let i=0;i < 5 ; i++){
     let contenido = llenarParrafos(numPalabsAlea)
 
     //Se asigna el contenido obtenido al texto del parrafo
-    parrafo.innerText = contenido
+    parrafo.textContent = contenido
 
     //Se agregan y muestran la cantidad de carácteres de cada párrafo
     totalCaracteres += contenido.length
